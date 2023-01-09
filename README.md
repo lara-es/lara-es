@@ -14,16 +14,17 @@ Areas of specific interest to me are climate change, mycology, health + wellness
 - [Reddit NLP Comment Engagement Analysis](https://github.com/lara-es/reddit_nlp_classification)
   - Collect data from Reddit then build a classification model to predict whether a post would receive more than the median comments. Leveraged both text and qualitative features via ColumnTransformer to create a Logistic Regression pipeline.
 
-### My Github Stats:
-[![Lara's github stats](https://github-readme-stats.vercel.app/api?username=lara-es&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Recently blogged on Medium:
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lara.e.strachan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lara.e.strachan/0" alt="Recent Article 0"> 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lara.e.strachan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lara.e.strachan/1" alt="Recent Article 1"> 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lara.e.strachan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lara.e.strachan/2" alt="Recent Article 2"> 
+   
+### My Github Stats:
+[![Lara's github stats](https://github-readme-stats.vercel.app/api?username=lara-es&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
-  <!--
+<!--
 **lara-es/lara-es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
