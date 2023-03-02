@@ -7,14 +7,12 @@ Thoughtful and thorough Data Scientist accomplished in compiling, transforming, 
 Areas of specific interest to me are climate change, mycology, health + wellness, and behavior change. I love to chat about these things, and more, so feel free to connect on [LinkedIn](https://www.linkedin.com/in/lara-strachan/)!
 
 ### My Projects:
-- [WiDS Datathon 2023](https://github.com/lara-es/WiDS_Datathon) (expected completion in March 2023)
-  - This year’s datathon, organized by the WiDS Worldwide team at Stanford University, Harvard University IACS, Arthur, and the WiDS Datathon Committee, will focus on longer-term weather forecasting to help communities adapt to extreme weather events caused by climate change.
 - [Satellite Imagery Analysis](https://github.com/lara-es/Capstone)
-  - Identify areas in Colorado that would be most valuable to protect based on patterns of human pressures and biodiversity. Using GIS tools such as rasterio, xarray, ArcGIS, and EO Browser, created a k-Means model to classify land use, & an ArcGIS map to visually interpret findings.
+  - Identify areas in Colorado that would be most valuable to protect based on patterns of human pressures and biodiversity. Using GIS tools such as Rasterio, xarray, ArcGIS, and EO Browser, created a k-Means model to classify land use, & an ArcGIS map to visually interpret findings.
 - [Climate Change and Coffee Production](https://github.com/lara-es/Project4)
   - Explore whether climate change has an impact on coffee production and retail price. Collaborated with 3 peers to design project, collect data, and implement models to gain insight and tell a compelling story.
 - [Reddit NLP Comment Engagement Analysis](https://github.com/lara-es/reddit_nlp_classification)
-  - Collect data from Reddit then build a classification model to predict whether a post would receive more than the median comments. Leveraged both text and qualitative features via ColumnTransformer to create a Logistic Regression pipeline.
+  - Scraped Reddit data using API’s then built a binary classification model to predict whether a post would receive more than the median comments. Leveraged text and qualitative features via ColumnTransformer to create a Logistic Regression pipeline. Achieved a 14% increase in predictive accuracy from baseline as well as information about feature importance.
 
 ### Recently blogged on Medium:
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lara.e.strachan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lara.e.strachan/0" alt="Recent Article 0"> 
