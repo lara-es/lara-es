@@ -2,7 +2,7 @@
 
 A little about me - 
 
-Thoughtful and thorough Data Scientist accomplished in compiling, transforming, and analyzing complex information through software. Demonstrated success in identifying relationships and building solutions to diverse problems. Passionate about asking the right questions and owning problems end-to-end.
+Thoughtful and thorough Data Scientist accomplished in compiling, transforming, and analyzing complex information. Demonstrated success in identifying relationships and building solutions to diverse problems. Passionate about asking the right questions and owning problems end-to-end.
 
 Areas of specific interest to me are climate change, mycology, health + wellness, and behavior change. I love to chat about these things, and more, so feel free to connect on [LinkedIn](https://www.linkedin.com/in/lara-strachan/)!
 
