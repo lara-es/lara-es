@@ -11,7 +11,7 @@ Areas of specific interest to me are climate change, mycology, health + wellness
   - Identify areas in Colorado that would be most valuable to protect based on patterns of human pressures and biodiversity. Using GIS tools such as Rasterio, xarray, ArcGIS, and EO Browser, created a k-Means model to classify land use, & an ArcGIS map to visually interpret findings.
 - [Climate Change and Coffee Production](https://github.com/lara-es/Project4)
   - Explore whether climate change has an impact on coffee production and retail price. Collaborated with 3 peers to design project, collect data, and implement models to gain insight and tell a compelling story.
-- [Reddit NLP Comment Engagement Analysis](https://github.com/lara-es/reddit_nlp_classification)
+- [Reddit NLP Comment Engagement Analysis](https://github.com/lara-es/nlp_classification)
   - Scraped Reddit data using API’s then built a binary classification model to predict whether a post would receive more than the median comments. Leveraged text and qualitative features via ColumnTransformer to create a Logistic Regression pipeline. Achieved a 14% increase in predictive accuracy from baseline as well as information about feature importance.
 
 ### Recently blogged on Medium:
