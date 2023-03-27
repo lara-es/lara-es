@@ -7,7 +7,7 @@ Thoughtful and thorough Data Scientist accomplished in compiling, transforming, 
 Areas of specific interest to me are climate change, mycology, health + wellness, and behavior change. I love to chat about these things, and more, so feel free to connect on [LinkedIn](https://www.linkedin.com/in/lara-strachan/)!
 
 ### My Projects:
-- [Satellite Imagery Analysis](https://github.com/lara-es/Capstone)
+- [Satellite Imagery Analysis](https://github.com/lara-es/satellite_imagery)
   - Identify areas in Colorado that would be most valuable to protect based on patterns of human pressures and biodiversity. Using GIS tools such as Rasterio, xarray, ArcGIS, and EO Browser, created a k-Means model to classify land use, & an ArcGIS map to visually interpret findings.
 - [Climate Change and Coffee Production](https://github.com/lara-es/Project4)
   - Explore whether climate change has an impact on coffee production and retail price. Collaborated with 3 peers to design project, collect data, and implement models to gain insight and tell a compelling story.
