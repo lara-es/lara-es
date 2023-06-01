@@ -2,17 +2,17 @@
 
 A little about me - 
 
-Thoughtful and thorough Data Scientist accomplished in compiling, transforming, and analyzing complex information. Demonstrated success in identifying relationships and building solutions to diverse problems. Passionate about asking the right questions and owning problems end-to-end.
+Thoughtful data scientist adept at effectively communicating complex concepts to diverse audiences. Skilled in end-to-end data wrangling, analysis, and visualization, ensuring accurate and insightful findings. Detail-oriented with a keen eye for identifying patterns and trends. Robust interpersonal skills enable seamless collaboration with cross-functional teams and stakeholders. Passionate about leveraging data-driven solutions to tackle problems at the intersection of technology and humanity. Thrived in a fast- paced tech startup environment for three years, honing expertise in data science over the past year.
 
 Areas of specific interest to me are climate change, mycology, health + wellness, and behavior change. I love to chat about these things, and more, so feel free to connect on [LinkedIn](https://www.linkedin.com/in/lara-strachan/)!
 
 ### My Projects:
 - [Satellite Imagery Analysis](https://github.com/lara-es/satellite_imagery)
-  - Identify areas in Colorado that would be most valuable to protect based on patterns of human pressures and biodiversity. Using GIS tools such as Rasterio, xarray, ArcGIS, and EO Browser, created a k-Means model to classify land use, & an ArcGIS map to visually interpret findings.
+  - Conducted in-depth analysis to identify key areas in Colorado for preservation, considering both human pressures and biodiversity. Employed geospatial tools like Rasterio and xarray to develop a robust k-Means model for land use classification. Generated interactive map app through ArcGIS to interpret patterns effectively.
 - [Climate Change and Coffee Production](https://github.com/lara-es/Project4)
   - Explore whether climate change has an impact on coffee production and retail price. Collaborated with 3 peers to design project, collect data, and implement models to gain insight and tell a compelling story.
 - [Reddit NLP Comment Engagement Analysis](https://github.com/lara-es/nlp_classification)
-  - Scraped Reddit data using API’s then built a binary classification model to predict whether a post would receive more than the median comments. Leveraged text and qualitative features via ColumnTransformer to create a Logistic Regression pipeline. Achieved a 14% increase in predictive accuracy from baseline as well as information about feature importance.
+  - Utilized APIs to scrape Reddit data and developed a binary classification model to predict post engagement, surpassing the median comment count. Constructed a Logistic Regression pipeline incorporating text and qualitative features. Significantly enhanced predictive accuracy by 14% compared to the baseline, while gaining valuable insights into feature importance.
 
 ### Recently blogged on Medium:
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lara.e.strachan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lara.e.strachan/0" alt="Recent Article 0"> 
