@@ -7,6 +7,8 @@ Thoughtful data scientist adept at effectively communicating complex concepts to
 Areas of specific interest to me are climate change, mycology, health + wellness, and behavior change. I love to chat about these things, and more, so feel free to connect on [LinkedIn](https://www.linkedin.com/in/lara-strachan/)!
 
 ### My Projects:
+- [World Data League - Biodiversity Impacts](https://github.com/lara-es/cascais_phase2) (Semi-finalists in competition)
+  - With a team of 3 others, we developed a predictive model that provides insights into the ecological factors that impact the density of mobile species found in the Avencas Marine Protected Area (AMPA), as well as an interactive ArcGIS map to visualize recorded biodiversity through time. Our model aims to support restoration efforts, providing insights on ecological factors related to species abundance. Understanding influential factors is essential for effective coastal zone management in response to climate change.
 - [Satellite Imagery Analysis](https://github.com/lara-es/satellite_imagery)
   - Conducted in-depth analysis to identify key areas in Colorado for preservation, considering both human pressures and biodiversity. Employed geospatial tools like Rasterio and xarray to develop a robust k-Means model for land use classification. Generated interactive map app through ArcGIS to interpret patterns effectively.
 - [Climate Change and Coffee Production](https://github.com/lara-es/Project4)
